@@ -21,6 +21,13 @@ Antes de executar o projeto, certifique-se de ter:
 - Flutter instalado ([Download Flutter](https://flutter.dev/docs/get-started/install))
 - Dart SDK atualizado
 - Dependências do projeto instaladas
+ 
+   Utilizar a versão 3.29.0 do Flutter
+   
+   ```bash
+   flutter pub get
+   flutter run
+   ```
 
 ### 🔹 Passos para rodar
 1. Clone o repositório:
