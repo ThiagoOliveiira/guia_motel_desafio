@@ -22,12 +22,8 @@ Antes de executar o projeto, certifique-se de ter:
 - Dart SDK atualizado
 - Dependências do projeto instaladas
  
-   Utilizar a versão 3.29.0 do Flutter
-   
-   ```bash
-   flutter pub get
-   flutter run
-   ```
+- Utilizar a versão 3.29.0 do Flutter
+  
 
 ### 🔹 Passos para rodar
 1. Clone o repositório:
